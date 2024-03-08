@@ -34,7 +34,7 @@ export default function Projects() {
                     width={300}
                     alt=""
                     priority></Image>
-                    <p>You're looking at it right now!</p>
+                    <p>You&apos;re looking at it right now!</p>
                     <Link className={buttonVariants({ variant: "default" })}
                     href="">
                         <Github className="mr-1 h-4 w-4"></Github>
