@@ -75,7 +75,7 @@ export function ContactForm() {
             <FormItem>
               <FormLabel>Email</FormLabel>
               <FormControl>
-                <Input placeholder="name@example.com" {...field} />
+                <Input autoComplete='on' placeholder="name@example.com" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
