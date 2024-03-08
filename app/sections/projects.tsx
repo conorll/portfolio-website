@@ -20,7 +20,7 @@ export default function Projects() {
                     priority></Image>
                     <p>Reads in Java code, checks that it is syntactically and lexically correct, and then builds an abstract syntax tree of the code.</p>
                     <Link className={buttonVariants({ variant: "default" })}
-                    href="">
+                    href="https://github.com/conorll/Java_Parser">
                         <Github className="mr-1 h-4 w-4"></Github>
                         Github
                     </Link>
@@ -36,12 +36,12 @@ export default function Projects() {
                     priority></Image>
                     <p>You&apos;re looking at it right now!</p>
                     <Link className={buttonVariants({ variant: "default" })}
-                    href="">
+                    href="github.com/conorll/portfolio-website">
                         <Github className="mr-1 h-4 w-4"></Github>
                         Github
                     </Link>
                     <Link className={buttonVariants({ variant: "default" })}
-                    href="">
+                    href="conorl.vercel.app/">
                         <Globe className="mr-1 h-4 w-4"></Globe>
                         Website
                     </Link>
