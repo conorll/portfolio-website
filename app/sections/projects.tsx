@@ -36,12 +36,12 @@ export default function Projects() {
                     priority></Image>
                     <p>You&apos;re looking at it right now!</p>
                     <Link className={buttonVariants({ variant: "default" })}
-                    href="github.com/conorll/portfolio-website">
+                    href="https://github.com/conorll/portfolio-website">
                         <Github className="mr-1 h-4 w-4"></Github>
                         Github
                     </Link>
                     <Link className={buttonVariants({ variant: "default" })}
-                    href="conorl.vercel.app/">
+                    href="https://conorl.vercel.app/">
                         <Globe className="mr-1 h-4 w-4"></Globe>
                         Website
                     </Link>
